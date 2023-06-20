@@ -1,2 +1,2 @@
 # Type-Three-Technology-Web-App
-Type Three Web App Repo
+Type Technology, built with Flutter and Dart, is an essential web app for agencies seeking clients. This powerful platform empowers agencies to showcase their software development, prototyping, design, and web framing expertise. With a seamless interface and robust features, agencies can effectively attract and engage potential clients. Type Technology revolutionizes the client acquisition process, providing agencies with the tools they need to stand out, build credibility, and secure new business opportunities in the competitive landscape of the digital world.
